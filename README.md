@@ -13,7 +13,7 @@ Run in this directory to build and run the app:
 docker compose up
 ```
 
-The `vote` app will be running at [http://localhost:9090](http://localhost:9090), and the `results` will be at [http://localhost:8081](http://localhost:9091).
+The `vote` app will be running at [http://localhost:9090](http://localhost:9090), and the `results` will be at [http://localhost:9091](http://localhost:9091).
 
 
 Once you have your swarm, in this directory run:
